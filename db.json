@@ -1,0 +1,41 @@
+"cnaes": [
+  {
+    "id": 2066,
+    "descricao": "CULTIVO DE ARROZ",
+    "status": "A",
+    "cnaeFiscal": "0111-3/01 ",
+    "cnae": "0111-3",
+    "grupo": "011",
+    "divisao": "01",
+    "secao": "A"
+  },
+  {
+    "id": 2067,
+    "descricao": "CULTIVO DE MILHO",
+    "status": "A",
+    "cnaeFiscal": "0111-3/02 ",
+    "cnae": "0111-3",
+    "grupo": "011",
+    "divisao": "01",
+    "secao": "A"
+  },
+  {
+    "id": 2068,
+    "descricao": "CULTIVO DE TRIGO",
+    "status": "A",
+    "cnaeFiscal": "0111-3/03 ",
+    "cnae": "0111-3",
+    "grupo": "011",
+    "divisao": "01",
+    "secao": "A"
+  },
+  {
+    "id": 2069,
+    "descricao": "CULTIVO DE OUTROS CEREAIS NÃO ESPECIFICADOS ANTERIORMENTE",
+    "status": "A",
+    "cnaeFiscal": "0111-3/99 ",
+    "cnae": "0111-3",
+    "grupo": "011",
+    "divisao": "01",
+    "secao": "A"
+  }
