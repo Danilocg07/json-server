@@ -28,45 +28,6 @@
     "grupo": "011",
     "divisao": "01",
     "secao": "A"
-  },
-  {
-    "id": 2069,
-    "descricao": "CULTIVO DE OUTROS CEREAIS NÃO ESPECIFICADOS ANTERIORMENTE",
-    "status": "A",
-    "cnaeFiscal": "0111-3/99 ",
-    "cnae": "0111-3",
-    "grupo": "011",
-    "divisao": "01",
-    "secao": "A"
-  },
-  {
-    "id": 2071,
-    "descricao": "CULTIVO DE ALGODÃO HERBÁCEO",
-    "status": "A",
-    "cnaeFiscal": "0112-1/01 ",
-    "cnae": "0112-1",
-    "grupo": "011",
-    "divisao": "01",
-    "secao": "A"
-  },
-  {
-    "id": 2072,
-    "descricao": "CULTIVO DE JUTA",
-    "status": "A",
-    "cnaeFiscal": "0112-1/02 ",
-    "cnae": "0112-1",
-    "grupo": "011",
-    "divisao": "01",
-    "secao": "A"
-  },
-  {
-    "id": 2073,
-    "descricao": "CULTIVO DE OUTRAS FIBRAS DE LAVOURA TEMPORÁRIA NÃO ESPECIFICADAS ANTERIORMENTE",
-    "status": "A",
-    "cnaeFiscal": "0112-1/99 ",
-    "cnae": "0112-1",
-    "grupo": "011",
-    "divisao": "01",
-    "secao": "A"
   }
+  
 ]}
